@@ -1,4 +1,4 @@
-New York Taxi and Limousine Trip Analysis
+<b>New York Taxi and Limousine Trip Analysis</b>
 
 Dataset used is available publically at the following link:
 http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
